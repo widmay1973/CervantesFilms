@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>LA HISTORIA EN FOTOS</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description>La historia de Cervantes Films en imagenes,viaja y disfruta.
+</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>logo_cervantes</title>
+            <link>slides/logo_cervantes.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>AA LOGOTIPO CERVANTES FILMS AA
+</description>
+            <media:description type="html">AA LOGOTIPO CERVANTES FILMS AA
+</media:description>
+            <media:thumbnail url="thumbs/logo_cervantes.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/logo_cervantes.jpg" width="180" height="214"/>
+            <guid isPermaLink="false">slides/logo_cervantes.jpg</guid>
+        </item>
+        <item>
+            <title>alex con sus besitos, con raul</title>
+            <link>slides/alex con sus besitos, con raul.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/alex con sus besitos, con raul.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/alex con sus besitos, con raul.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/alex con sus besitos, con raul.jpg</guid>
+        </item>
+        <item>
+            <title>Alex el come orejas</title>
+            <link>slides/Alex el come orejas.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Alex el come orejas.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Alex el come orejas.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 09 May 2026 00:46:11 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/Alex el come orejas.jpg</guid>
+        </item>
+        <item>
+            <title>Alex el palillos</title>
+            <link>slides/Alex el palillos.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Alex con ojos de shushi</description>
+            <media:description type="html">Alex con ojos de shushi</media:description>
+            <media:thumbnail url="thumbs/Alex el palillos.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Alex el palillos.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:02 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/Alex el palillos.jpg</guid>
+        </item>
+        <item>
+            <title>alex y su puno</title>
+            <link>slides/alex y su puno.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Alex comiendose su puño.</description>
+            <media:description type="html">Alex comiendose su puño.</media:description>
+            <media:thumbnail url="thumbs/alex y su puno.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/alex y su puno.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:07 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/alex y su puno.jpg</guid>
+        </item>
+        <item>
+            <title>Alex, Carlos y Jordi,preestreno 8 bits</title>
+            <link>slides/Alex, Carlos y Jordi,preestreno 8 bits.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Alex, Carlos y Jordi,preestreno 8 bits.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Alex, Carlos y Jordi,preestreno 8 bits.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Fri, 08 May 2026 22:10:16 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/Alex, Carlos y Jordi,preestreno 8 bits.jpg</guid>
+        </item>
+        <item>
+            <title>alex, manuel y carlos</title>
+            <link>slides/alex, manuel y carlos.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/alex, manuel y carlos.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/alex, manuel y carlos.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/alex, manuel y carlos.jpg</guid>
+        </item>
+        <item>
+            <title>amigos para siempre</title>
+            <link>slides/amigos para siempre.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/amigos para siempre.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/amigos para siempre.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/amigos para siempre.jpg</guid>
+        </item>
+        <item>
+            <title>Aqui comienza la 2 epoca de Cervantes Films</title>
+            <link>slides/Aqui comienza la 2 epoca de Cervantes Films.png</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Aqui comienza la 2 epoca de Cervantes Films.png" width="200" height="150"/>
+            <media:content type="image/png" url="slides/Aqui comienza la 2 epoca de Cervantes Films.png" width="500" height="332"/>
+            <guid isPermaLink="false">slides/Aqui comienza la 2 epoca de Cervantes Films.png</guid>
+        </item>
+        <item>
+            <title>carlos cantero en veneno</title>
+            <link>slides/carlos cantero en veneno.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/carlos cantero en veneno.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/carlos cantero en veneno.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/carlos cantero en veneno.jpg</guid>
+        </item>
+        <item>
+            <title>carlos herrero en pleno rodaje de 8 bits</title>
+            <link>slides/carlos herrero en pleno rodaje de 8 bits.JPG</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/carlos herrero en pleno rodaje de 8 bits.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/carlos herrero en pleno rodaje de 8 bits.JPG" width="500" height="332"/>
+            <jalbum:exif originalDate="Sat, 03 May 2008 19:01:41 +0200" cameraMake="NIKON CORPORATION" cameraModel="NIKON D70s"/>
+            <guid isPermaLink="false">slides/carlos herrero en pleno rodaje de 8 bits.JPG</guid>
+        </item>
+        <item>
+            <title>carlos herrero, raul molin y alejandro layunta</title>
+            <link>slides/carlos herrero, raul molin y alejandro layunta.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/carlos herrero, raul molin y alejandro layunta.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/carlos herrero, raul molin y alejandro layunta.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/carlos herrero, raul molin y alejandro layunta.jpg</guid>
+        </item>
+        <item>
+            <title>chico y elias en veneno</title>
+            <link>slides/chico y elias en veneno.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/chico y elias en veneno.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/chico y elias en veneno.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/chico y elias en veneno.jpg</guid>
+        </item>
+        <item>
+            <title>chico y raul romero, en leyenda 2</title>
+            <link>slides/chico y raul romero, en leyenda 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/chico y raul romero, en leyenda 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/chico y raul romero, en leyenda 2.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/chico y raul romero, en leyenda 2.jpg</guid>
+        </item>
+        <item>
+            <title>como hacerlo</title>
+            <link>slides/como hacerlo.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/como hacerlo.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/como hacerlo.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/como hacerlo.jpg</guid>
+        </item>
+        <item>
+            <title>cybor oscar castro</title>
+            <link>slides/cybor oscar castro.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cybor oscar castro.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/cybor oscar castro.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/cybor oscar castro.jpg</guid>
+        </item>
+        <item>
+            <title>el famoso mortero jeje.</title>
+            <link>slides/el famoso mortero jeje..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/el famoso mortero jeje..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/el famoso mortero jeje..jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/el famoso mortero jeje..jpg</guid>
+        </item>
+        <item>
+            <title>elias garcia en mania ciega</title>
+            <link>slides/elias garcia en mania ciega.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/elias garcia en mania ciega.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/elias garcia en mania ciega.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/elias garcia en mania ciega.jpg</guid>
+        </item>
+        <item>
+            <title>Emilio, Jose y manuel en maldicion</title>
+            <link>slides/Emilio, Jose y manuel en maldicion.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Emilio, Jose y manuel en maldicion.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Emilio, Jose y manuel en maldicion.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/Emilio, Jose y manuel en maldicion.jpg</guid>
+        </item>
+        <item>
+            <title>emilio-giron-en-pleno-rodaje-de-maldicion</title>
+            <link>slides/emilio-giron-en-pleno-rodaje-de-maldicion.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/emilio-giron-en-pleno-rodaje-de-maldicion.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/emilio-giron-en-pleno-rodaje-de-maldicion.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/emilio-giron-en-pleno-rodaje-de-maldicion.jpg</guid>
+        </item>
+        <item>
+            <title>en el bar del xino.</title>
+            <link>slides/en el bar del xino..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/en el bar del xino..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/en el bar del xino..jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Fri, 08 May 2026 23:36:39 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/en el bar del xino..jpg</guid>
+        </item>
+        <item>
+            <title>enrique gonzales en la leyenda del bosque 2</title>
+            <link>slides/enrique gonzales en la leyenda del bosque 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/enrique gonzales en la leyenda del bosque 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/enrique gonzales en la leyenda del bosque 2.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/enrique gonzales en la leyenda del bosque 2.jpg</guid>
+        </item>
+        <item>
+            <title>enrique gonzalez</title>
+            <link>slides/enrique gonzalez.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/enrique gonzalez.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/enrique gonzalez.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/enrique gonzalez.jpg</guid>
+        </item>
+        <item>
+            <title>escena de MALDICION</title>
+            <link>slides/escena de MALDICION.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/escena de MALDICION.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/escena de MALDICION.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/escena de MALDICION.jpg</guid>
+        </item>
+        <item>
+            <title>foto el dia del preestreno de 8 bits</title>
+            <link>slides/foto el dia del preestreno de 8 bits.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>estreno de 8 bits.</description>
+            <media:description type="html">estreno de 8 bits.</media:description>
+            <media:thumbnail url="thumbs/foto el dia del preestreno de 8 bits.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/foto el dia del preestreno de 8 bits.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:02 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/foto el dia del preestreno de 8 bits.jpg</guid>
+        </item>
+        <item>
+            <title>fran y pepe</title>
+            <link>slides/fran y pepe.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fran y pepe.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/fran y pepe.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/fran y pepe.jpg</guid>
+        </item>
+        <item>
+            <title>Francisco Sanchez en el indeseable</title>
+            <link>slides/Francisco Sanchez en el indeseable.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Francisco Sanchez en el indeseable.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Francisco Sanchez en el indeseable.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/Francisco Sanchez en el indeseable.jpg</guid>
+        </item>
+        <item>
+            <title>haciendo pruebas copia</title>
+            <link>slides/haciendo pruebas copia.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/haciendo pruebas copia.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/haciendo pruebas copia.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/haciendo pruebas copia.jpg</guid>
+        </item>
+        <item>
+            <title>javier porcel en leyenda 2</title>
+            <link>slides/javier porcel en leyenda 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/javier porcel en leyenda 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/javier porcel en leyenda 2.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/javier porcel en leyenda 2.jpg</guid>
+        </item>
+        <item>
+            <title>jonathan cabrera y elias en mania ciaga</title>
+            <link>slides/jonathan cabrera y elias en mania ciaga.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jonathan cabrera y elias en mania ciaga.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jonathan cabrera y elias en mania ciaga.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/jonathan cabrera y elias en mania ciaga.jpg</guid>
+        </item>
+        <item>
+            <title>jordi</title>
+            <link>slides/jordi.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Jordi en La leyenda del bosque.</description>
+            <media:description type="html">Jordi en La leyenda del bosque.</media:description>
+            <media:thumbnail url="thumbs/jordi.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/jordi.jpg</guid>
+        </item>
+        <item>
+            <title>jordi 2</title>
+            <link>slides/jordi 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi 2.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/jordi 2.jpg</guid>
+        </item>
+        <item>
+            <title>jordi 4 catalepsia</title>
+            <link>slides/jordi 4 catalepsia.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi 4 catalepsia.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi 4 catalepsia.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/jordi 4 catalepsia.jpg</guid>
+        </item>
+        <item>
+            <title>jordi el heavy</title>
+            <link>slides/jordi el heavy.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Jordi Heavy.</description>
+            <media:description type="html">Jordi Heavy.</media:description>
+            <media:thumbnail url="thumbs/jordi el heavy.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi el heavy.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:07 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/jordi el heavy.jpg</guid>
+        </item>
+        <item>
+            <title>jordi en catalepsia 2</title>
+            <link>slides/jordi en catalepsia 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi en catalepsia 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi en catalepsia 2.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/jordi en catalepsia 2.jpg</guid>
+        </item>
+        <item>
+            <title>Jordi en Cuatreros ok</title>
+            <link>slides/Jordi en Cuatreros ok.png</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Jordi en Cuatreros ok.png" width="200" height="150"/>
+            <media:content type="image/png" url="slides/Jordi en Cuatreros ok.png" width="500" height="384"/>
+            <guid isPermaLink="false">slides/Jordi en Cuatreros ok.png</guid>
+        </item>
+        <item>
+            <title>jordi en la pension sangrienta</title>
+            <link>slides/jordi en la pension sangrienta.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi en la pension sangrienta.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi en la pension sangrienta.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/jordi en la pension sangrienta.jpg</guid>
+        </item>
+        <item>
+            <title>jordi en leyenda 2</title>
+            <link>slides/jordi en leyenda 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi en leyenda 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi en leyenda 2.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/jordi en leyenda 2.jpg</guid>
+        </item>
+        <item>
+            <title>jordi en polybius</title>
+            <link>slides/jordi en polybius.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi en polybius.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi en polybius.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/jordi en polybius.jpg</guid>
+        </item>
+        <item>
+            <title>jordi karina manuel copia</title>
+            <link>slides/jordi karina manuel copia.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi karina manuel copia.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi karina manuel copia.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/jordi karina manuel copia.jpg</guid>
+        </item>
+        <item>
+            <title>jordi le presta pelo a alex.</title>
+            <link>slides/jordi le presta pelo a alex..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Jordi le presto pelo a alex.</description>
+            <media:description type="html">Jordi le presto pelo a alex.</media:description>
+            <media:thumbnail url="thumbs/jordi le presta pelo a alex..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi le presta pelo a alex..jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:08 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/jordi le presta pelo a alex..jpg</guid>
+        </item>
+        <item>
+            <title>Jordi Soteras en Maldicion</title>
+            <link>slides/Jordi Soteras en Maldicion.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Jordi Soteras en Maldicion.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Jordi Soteras en Maldicion.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/Jordi Soteras en Maldicion.jpg</guid>
+        </item>
+        <item>
+            <title>jordi soteras enfermo en polybius</title>
+            <link>slides/jordi soteras enfermo en polybius.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi soteras enfermo en polybius.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi soteras enfermo en polybius.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/jordi soteras enfermo en polybius.jpg</guid>
+        </item>
+        <item>
+            <title>jordi soteras llamando por telefono</title>
+            <link>slides/jordi soteras llamando por telefono.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi soteras llamando por telefono.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi soteras llamando por telefono.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/jordi soteras llamando por telefono.jpg</guid>
+        </item>
+        <item>
+            <title>jordi soteras probando</title>
+            <link>slides/jordi soteras probando.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi soteras probando.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi soteras probando.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/jordi soteras probando.jpg</guid>
+        </item>
+        <item>
+            <title>jordi soteras y manuel bueno, en veneno</title>
+            <link>slides/jordi soteras y manuel bueno, en veneno.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi soteras y manuel bueno, en veneno.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi soteras y manuel bueno, en veneno.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/jordi soteras y manuel bueno, en veneno.jpg</guid>
+        </item>
+        <item>
+            <title>jordi y manuel 3</title>
+            <link>slides/jordi y manuel 3.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi y manuel 3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi y manuel 3.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/jordi y manuel 3.jpg</guid>
+        </item>
+        <item>
+            <title>JORDI Y MANUEL en pleno rodaje de Cuatreros</title>
+            <link>slides/JORDI Y MANUEL en pleno rodaje de Cuatreros.png</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/JORDI Y MANUEL en pleno rodaje de Cuatreros.png" width="200" height="150"/>
+            <media:content type="image/png" url="slides/JORDI Y MANUEL en pleno rodaje de Cuatreros.png" width="500" height="310"/>
+            <guid isPermaLink="false">slides/JORDI Y MANUEL en pleno rodaje de Cuatreros.png</guid>
+        </item>
+        <item>
+            <title>jordi,manuel,jose, y emilio en maldicion</title>
+            <link>slides/jordi,manuel,jose, y emilio en maldicion.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jordi,manuel,jose, y emilio en maldicion.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jordi,manuel,jose, y emilio en maldicion.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/jordi,manuel,jose, y emilio en maldicion.jpg</guid>
+        </item>
+        <item>
+            <title>jose carlos giron</title>
+            <link>slides/jose carlos giron.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jose carlos giron.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jose carlos giron.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/jose carlos giron.jpg</guid>
+        </item>
+        <item>
+            <title>Jose Carlos Giron en Maldicion</title>
+            <link>slides/Jose Carlos Giron en Maldicion.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Jose Carlos Giron en Maldicion.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Jose Carlos Giron en Maldicion.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/Jose Carlos Giron en Maldicion.jpg</guid>
+        </item>
+        <item>
+            <title>jose carlos giron en pleno rodaje de footing</title>
+            <link>slides/jose carlos giron en pleno rodaje de footing.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jose carlos giron en pleno rodaje de footing.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jose carlos giron en pleno rodaje de footing.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/jose carlos giron en pleno rodaje de footing.jpg</guid>
+        </item>
+        <item>
+            <title>jose carlos giron en romut</title>
+            <link>slides/jose carlos giron en romut.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jose carlos giron en romut.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jose carlos giron en romut.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/jose carlos giron en romut.jpg</guid>
+        </item>
+        <item>
+            <title>jose carlos y pepe en romut</title>
+            <link>slides/jose carlos y pepe en romut.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jose carlos y pepe en romut.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jose carlos y pepe en romut.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/jose carlos y pepe en romut.jpg</guid>
+        </item>
+        <item>
+            <title>jose rafael villaverde en romut</title>
+            <link>slides/jose rafael villaverde en romut.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/jose rafael villaverde en romut.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/jose rafael villaverde en romut.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/jose rafael villaverde en romut.jpg</guid>
+        </item>
+        <item>
+            <title>karina asustada en dark of place</title>
+            <link>slides/karina asustada en dark of place.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/karina asustada en dark of place.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/karina asustada en dark of place.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/karina asustada en dark of place.jpg</guid>
+        </item>
+        <item>
+            <title>karina cuelda</title>
+            <link>slides/karina cuelda.JPG</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>          Karina </description>
+            <media:description type="html">          Karina </media:description>
+            <media:thumbnail url="thumbs/karina cuelda.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/karina cuelda.JPG" width="500" height="375"/>
+            <jalbum:exif originalDate="Thu, 19 Oct 2006 20:45:04 +0200" cameraMake="NIKON" cameraModel="E3700"/>
+            <guid isPermaLink="false">slides/karina cuelda.JPG</guid>
+        </item>
+        <item>
+            <title>karina cuelda en pleno rodaje de catalepsia</title>
+            <link>slides/karina cuelda en pleno rodaje de catalepsia.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/karina cuelda en pleno rodaje de catalepsia.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/karina cuelda en pleno rodaje de catalepsia.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/karina cuelda en pleno rodaje de catalepsia.jpg</guid>
+        </item>
+        <item>
+            <title>karina cuelda en quiero salir</title>
+            <link>slides/karina cuelda en quiero salir.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/karina cuelda en quiero salir.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/karina cuelda en quiero salir.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/karina cuelda en quiero salir.jpg</guid>
+        </item>
+        <item>
+            <title>karina cuelda en romut</title>
+            <link>slides/karina cuelda en romut.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/karina cuelda en romut.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/karina cuelda en romut.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/karina cuelda en romut.jpg</guid>
+        </item>
+        <item>
+            <title>karina jordi y carlos</title>
+            <link>slides/karina jordi y carlos.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/karina jordi y carlos.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/karina jordi y carlos.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 09 May 2026 00:45:41 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/karina jordi y carlos.jpg</guid>
+        </item>
+        <item>
+            <title>karina y manuel</title>
+            <link>slides/karina y manuel.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/karina y manuel.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/karina y manuel.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 09 May 2026 00:46:47 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/karina y manuel.jpg</guid>
+        </item>
+        <item>
+            <title>la primera herramienta 2</title>
+            <link>slides/la primera herramienta 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/la primera herramienta 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/la primera herramienta 2.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/la primera herramienta 2.jpg</guid>
+        </item>
+        <item>
+            <title>la primera herramienta 3</title>
+            <link>slides/la primera herramienta 3.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/la primera herramienta 3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/la primera herramienta 3.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/la primera herramienta 3.jpg</guid>
+        </item>
+        <item>
+            <title>La quedada del 16-6-2007</title>
+            <link>slides/La quedada del 16-6-2007.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/La quedada del 16-6-2007.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/La quedada del 16-6-2007.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/La quedada del 16-6-2007.jpg</guid>
+        </item>
+        <item>
+            <title>los 4</title>
+            <link>slides/los 4.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/los 4.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/los 4.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/los 4.jpg</guid>
+        </item>
+        <item>
+            <title>los 4 en el japones.</title>
+            <link>slides/los 4 en el japones..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Apunto de comer Japo.</description>
+            <media:description type="html">Apunto de comer Japo.</media:description>
+            <media:thumbnail url="thumbs/los 4 en el japones..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/los 4 en el japones..jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:02 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/los 4 en el japones..jpg</guid>
+        </item>
+        <item>
+            <title>LOS J-J JUNTOS</title>
+            <link>slides/LOS J-J JUNTOS.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Jordi Serrano Y Jose Antonio Los J &amp; J Juntos.</description>
+            <media:description type="html">Jordi Serrano Y Jose Antonio Los J &amp; J Juntos.</media:description>
+            <media:thumbnail url="thumbs/LOS J-J JUNTOS.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/LOS J-J JUNTOS.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/LOS J-J JUNTOS.jpg</guid>
+        </item>
+        <item>
+            <title>MANOLO Y JORDI el alma de cervantes</title>
+            <link>slides/MANOLO Y JORDI el alma de cervantes.JPG</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>          Manuel Y Jordi en el estudio.</description>
+            <media:description type="html">          Manuel Y Jordi en el estudio.</media:description>
+            <media:thumbnail url="thumbs/MANOLO Y JORDI el alma de cervantes.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/MANOLO Y JORDI el alma de cervantes.JPG" width="500" height="375"/>
+            <jalbum:exif originalDate="Fri, 08 Dec 2006 20:32:14 +0100" cameraMake="NIKON" cameraModel="E3700"/>
+            <guid isPermaLink="false">slides/MANOLO Y JORDI el alma de cervantes.JPG</guid>
+        </item>
+        <item>
+            <title>manuel bueno asustado en el rodaje de dark of place</title>
+            <link>slides/manuel bueno asustado en el rodaje de dark of place.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno asustado en el rodaje de dark of place.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno asustado en el rodaje de dark of place.jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/manuel bueno asustado en el rodaje de dark of place.jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno en dark of place</title>
+            <link>slides/manuel bueno en dark of place.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno en dark of place.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno en dark of place.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/manuel bueno en dark of place.jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno en footing</title>
+            <link>slides/manuel bueno en footing.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno en footing.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno en footing.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/manuel bueno en footing.jpg</guid>
+        </item>
+        <item>
+            <title>Manuel bueno en Maldicion</title>
+            <link>slides/Manuel bueno en Maldicion.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Manuel bueno en Maldicion.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Manuel bueno en Maldicion.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/Manuel bueno en Maldicion.jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno en mania ciega.</title>
+            <link>slides/manuel bueno en mania ciega..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno en mania ciega..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno en mania ciega..jpg" width="500" height="399"/>
+            <guid isPermaLink="false">slides/manuel bueno en mania ciega..jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno en pleno rodaje de catalepsia</title>
+            <link>slides/manuel bueno en pleno rodaje de catalepsia.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno en pleno rodaje de catalepsia.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno en pleno rodaje de catalepsia.jpg" width="500" height="283"/>
+            <guid isPermaLink="false">slides/manuel bueno en pleno rodaje de catalepsia.jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno en polybius.</title>
+            <link>slides/manuel bueno en polybius..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno en polybius..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno en polybius..jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/manuel bueno en polybius..jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno en quiero salir</title>
+            <link>slides/manuel bueno en quiero salir.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno en quiero salir.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno en quiero salir.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/manuel bueno en quiero salir.jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno rodando en dark of place</title>
+            <link>slides/manuel bueno rodando en dark of place.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno rodando en dark of place.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno rodando en dark of place.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/manuel bueno rodando en dark of place.jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno y jordi sote copia</title>
+            <link>slides/manuel bueno y jordi sote copia.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno y jordi sote copia.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno y jordi sote copia.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/manuel bueno y jordi sote copia.jpg</guid>
+        </item>
+        <item>
+            <title>manuel bueno y jordi soteras</title>
+            <link>slides/manuel bueno y jordi soteras.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel bueno y jordi soteras.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel bueno y jordi soteras.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/manuel bueno y jordi soteras.jpg</guid>
+        </item>
+        <item>
+            <title>Manuel bueno y raul molina</title>
+            <link>slides/Manuel bueno y raul molina.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Manuel bueno y raul molina.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/Manuel bueno y raul molina.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/Manuel bueno y raul molina.jpg</guid>
+        </item>
+        <item>
+            <title>Manuel en Cuatreros ok</title>
+            <link>slides/Manuel en Cuatreros ok.png</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Manuel en Cuatreros ok.png" width="200" height="150"/>
+            <media:content type="image/png" url="slides/Manuel en Cuatreros ok.png" width="500" height="382"/>
+            <guid isPermaLink="false">slides/Manuel en Cuatreros ok.png</guid>
+        </item>
+        <item>
+            <title>manuel en la pension sangrienta</title>
+            <link>slides/manuel en la pension sangrienta.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel en la pension sangrienta.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel en la pension sangrienta.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/manuel en la pension sangrienta.jpg</guid>
+        </item>
+        <item>
+            <title>manuel riendo.</title>
+            <link>slides/manuel riendo..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Manuel haciendo el tontin.</description>
+            <media:description type="html">Manuel haciendo el tontin.</media:description>
+            <media:thumbnail url="thumbs/manuel riendo..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel riendo..jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:07 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/manuel riendo..jpg</guid>
+        </item>
+        <item>
+            <title>manuel y karina</title>
+            <link>slides/manuel y karina.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel y karina.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel y karina.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Fri, 08 May 2026 22:10:30 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/manuel y karina.jpg</guid>
+        </item>
+        <item>
+            <title>manuel, alex, y jordi haciendo el loco</title>
+            <link>slides/manuel, alex, y jordi haciendo el loco.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Cuidao el Cuchillo jordi.</description>
+            <media:description type="html">Cuidao el Cuchillo jordi.</media:description>
+            <media:thumbnail url="thumbs/manuel, alex, y jordi haciendo el loco.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel, alex, y jordi haciendo el loco.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:02 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/manuel, alex, y jordi haciendo el loco.jpg</guid>
+        </item>
+        <item>
+            <title>manuel, kubero, fran, y jordi. en la leyenda del bosque</title>
+            <link>slides/manuel, kubero, fran, y jordi. en la leyenda del bosque.JPG</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/manuel, kubero, fran, y jordi. en la leyenda del bosque.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/manuel, kubero, fran, y jordi. en la leyenda del bosque.JPG" width="500" height="399"/>
+            <guid isPermaLink="false">slides/manuel, kubero, fran, y jordi. en la leyenda del bosque.JPG</guid>
+        </item>
+        <item>
+            <title>miguel-angel-nunes-en-romut</title>
+            <link>slides/miguel-angel-nunes-en-romut.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/miguel-angel-nunes-en-romut.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/miguel-angel-nunes-en-romut.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/miguel-angel-nunes-en-romut.jpg</guid>
+        </item>
+        <item>
+            <title>otra vez manuel y karina</title>
+            <link>slides/otra vez manuel y karina.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/otra vez manuel y karina.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/otra vez manuel y karina.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 09 May 2026 00:46:59 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/otra vez manuel y karina.jpg</guid>
+        </item>
+        <item>
+            <title>pelea</title>
+            <link>slides/pelea.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/pelea.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/pelea.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/pelea.jpg</guid>
+        </item>
+        <item>
+            <title>pelea entre chico y jordi. leyenda 2</title>
+            <link>slides/pelea entre chico y jordi. leyenda 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/pelea entre chico y jordi. leyenda 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/pelea entre chico y jordi. leyenda 2.jpg" width="500" height="401"/>
+            <guid isPermaLink="false">slides/pelea entre chico y jordi. leyenda 2.jpg</guid>
+        </item>
+        <item>
+            <title>pepe y manolo en pleno rodaje de romut</title>
+            <link>slides/pepe y manolo en pleno rodaje de romut.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/pepe y manolo en pleno rodaje de romut.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/pepe y manolo en pleno rodaje de romut.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/pepe y manolo en pleno rodaje de romut.jpg</guid>
+        </item>
+        <item>
+            <title>portada 2</title>
+            <link>slides/portada 2.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/portada 2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/portada 2.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 09 May 2026 00:44:26 +0200" cameraMake="SAMSUNG TECHWIN CO., LTD." cameraModel="Samsung L700"/>
+            <guid isPermaLink="false">slides/portada 2.jpg</guid>
+        </item>
+        <item>
+            <title>posando jeje</title>
+            <link>slides/posando jeje.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/posando jeje.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/posando jeje.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/posando jeje.jpg</guid>
+        </item>
+        <item>
+            <title>raul molina en la pension sangrienta</title>
+            <link>slides/raul molina en la pension sangrienta.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/raul molina en la pension sangrienta.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/raul molina en la pension sangrienta.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/raul molina en la pension sangrienta.jpg</guid>
+        </item>
+        <item>
+            <title>raul molina en pleno rodaje de veneno</title>
+            <link>slides/raul molina en pleno rodaje de veneno.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/raul molina en pleno rodaje de veneno.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/raul molina en pleno rodaje de veneno.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/raul molina en pleno rodaje de veneno.jpg</guid>
+        </item>
+        <item>
+            <title>raul molina y alejandro layunta</title>
+            <link>slides/raul molina y alejandro layunta.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/raul molina y alejandro layunta.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/raul molina y alejandro layunta.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/raul molina y alejandro layunta.jpg</guid>
+        </item>
+        <item>
+            <title>reunion veneno la sustancia prohibida</title>
+            <link>slides/reunion veneno la sustancia prohibida.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/reunion veneno la sustancia prohibida.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/reunion veneno la sustancia prohibida.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/reunion veneno la sustancia prohibida.jpg</guid>
+        </item>
+        <item>
+            <title>rodaje 8 bits 6</title>
+            <link>slides/rodaje 8 bits 6.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rodaje 8 bits 6.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/rodaje 8 bits 6.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/rodaje 8 bits 6.jpg</guid>
+        </item>
+        <item>
+            <title>rodaje 8 bits 7</title>
+            <link>slides/rodaje 8 bits 7.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rodaje 8 bits 7.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/rodaje 8 bits 7.jpg" width="500" height="332"/>
+            <guid isPermaLink="false">slides/rodaje 8 bits 7.jpg</guid>
+        </item>
+        <item>
+            <title>todas la herramientas de los 90</title>
+            <link>slides/todas la herramientas de los 90.png</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/todas la herramientas de los 90.png" width="200" height="150"/>
+            <media:content type="image/png" url="slides/todas la herramientas de los 90.png" width="960" height="638"/>
+            <guid isPermaLink="false">slides/todas la herramientas de los 90.png</guid>
+        </item>
+        <item>
+            <title>todos con el cochazo</title>
+            <link>slides/todos con el cochazo.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Todos con el Hammer.</description>
+            <media:description type="html">Todos con el Hammer.</media:description>
+            <media:thumbnail url="thumbs/todos con el cochazo.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/todos con el cochazo.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:08 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/todos con el cochazo.jpg</guid>
+        </item>
+        <item>
+            <title>todos en el bar del xino.</title>
+            <link>slides/todos en el bar del xino..jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>la foto que nos hizo el XINO.</description>
+            <media:description type="html">la foto que nos hizo el XINO.</media:description>
+            <media:thumbnail url="thumbs/todos en el bar del xino..jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/todos en el bar del xino..jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="Sat, 01 Jan 2005 00:00:02 +0100" cameraMake="Samsung Techwin co., Ltd." cameraModel="Digimax A502"/>
+            <guid isPermaLink="false">slides/todos en el bar del xino..jpg</guid>
+        </item>
+        <item>
+            <title>valla pelea</title>
+            <link>slides/valla pelea.jpg</link>
+            <pubDate>Thu, 14 May 2015 21:06:01 +0200</pubDate>
+            <description>Valla pelea en Veneno
+</description>
+            <media:description type="html">Valla pelea en Veneno
+</media:description>
+            <media:thumbnail url="thumbs/valla pelea.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/valla pelea.jpg" width="500" height="400"/>
+            <guid isPermaLink="false">slides/valla pelea.jpg</guid>
+        </item>
+    </channel>
+</rss>

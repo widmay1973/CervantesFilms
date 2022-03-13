@@ -1,0 +1,274 @@
+@charset "UTF-8";
+
+:focus { outline:0; }
+a:active { outline:none; }
+img {border:0}
+
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	background-color: #FFFFFF;
+	background-image: url(../imagenes/fondo_secciones.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+
+h1 {
+	font-size:16pt;
+	color:#907536;
+	font-weight:
+; 		font-weight: bold;
+}
+
+a {
+	color:#FFFFFF;
+	text-decoration: none;
+	border:none	
+	
+}	
+
+a:hover {
+	color: #3F1903;
+	text-decoration: none;	
+	
+}
+
+ul {
+	list-style:none;
+
+}
+
+ul a {
+	color:#fff;
+	text-decoration: none;
+}
+
+hr {
+	color:#666666;
+	align: left;
+	text-align: left;
+}
+
+#container {
+	position:absolute;
+	margin: 0px;
+	padding: 0px;
+	height: 7764px;
+	width: 1028px;
+	left: -1px;
+	top: -2px;
+	z-index: 11;
+}
+
+
+#container #menu {
+	height: 91px;
+	width: 586px;
+	position: absolute;
+	left: 303px;
+	top: 4px;
+	float: left;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+#container #menu #menu_home {
+	float: left;
+	background:url(../imagenes/menu/menu_home.png) top left no-repeat;
+	height: 65px;
+	width: 40px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+		#menu_home img, #menu_home a:hover{
+		width:37px;
+		height:62px;
+		}
+
+		#menu_home a:hover{
+			position:absolute;
+			background:url(../imagenes/menu/menu_home_over.png) top left no-repeat;
+}
+
+#container #menu #menu_historia {
+	float: left;
+	background:url(../imagenes/menu/menu_historia.png) top left no-repeat;
+	height: 65px;
+	width: 52px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+	#menu_historia img, #menu_historia a:hover{
+		width:52px;
+		height:65px;
+		}
+	#menu_historia a:hover{
+			position:absolute;
+			background:url(../imagenes/menu/menu_historia_over.png) top left no-repeat;
+			}
+#container #menu #menu_peliculas {
+	float: left;
+	background:url(../imagenes/menu/menu_peliculas.png) top left no-repeat;
+	height: 65px;
+	width: 62px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+	#menu_peliculas img, #menu_peliculas a:hover{
+		width:62px;
+		height:65px;
+		}
+		
+	#menu_peliculas a:hover{
+			position:absolute;
+			background:url(../imagenes/menu/menu_peliculas_over.png) top left no-repeat;
+			}
+			
+#container #menu #menu_tomasfalsas {
+	float: left;
+	background:url(../imagenes/menu/menu_tomas.png) top left no-repeat;
+	height: 65px;
+	width: 90px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+	#menu_tomasfalsas img, #menu_tomasfalsas a:hover{
+		width:90px;
+		height:65px;
+		}
+		
+	#menu_tomasfalsas a:hover{
+			position:absolute;
+			background:url(../imagenes/menu/menu_tomas_over.png) top left no-repeat;
+			}
+			
+#container #menu #menu_fotos {
+	float: left;
+	background:url(../imagenes/menu/menu_fotos.png) top left no-repeat;
+	height: 65px;
+	width: 36px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+	#menu_fotos img, #menu_fotos a:hover{
+	width:36px;
+	height:65px;
+		}
+		
+	#menu_fotos a:hover{
+			position:absolute;
+			background:url(../imagenes/menu/menu_fotos_over.png) top left no-repeat;
+			}
+			
+
+#container #menu #menu_blog {
+	float: left;
+	background:url(../imagenes/menu/menu_blog.png) top left no-repeat;
+	height: 65px;
+	width: 34px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+	#menu_blog img, #menu_blog a:hover{
+		width:34px;
+		height:65px;
+		}
+		
+	#menu_blog a:hover{
+			position:absolute;
+			background:url(../imagenes/menu/menu_blog_over.png) top left no-repeat;
+			}
+			
+#container #contenedor_peliculas {
+	position: absolute;
+	width: 600px;
+	left: 317px;
+	top: 146px;
+	color:#FFFFFF;
+	background-image:url(../imagenes/textura.jpg);
+	
+}
+
+#contenedor_peliculas ul{
+	display:block;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-left: 30px;	
+	
+	
+}
+#contenedor_peliculas ul li a img{
+border: 2px solid #999999
+}
+
+#contenedor_peliculas ul li a{
+	color:#666;
+	
+}
+
+#contenedor_peliculas ul li a:hover{
+	color:#333;
+	float: none;
+	
+}
+	
+#contenedor_peliculas ul ul li{
+	margin: 0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style-image:url(../imagenes/peliculas/icono_claqueta.png);
+
+}
+
+#footer {
+	background-color: #000000;
+	height: 55px;
+	width: 1024px;
+	position: absolute;
+	left: -1px;
+	top: 7709px;
+}
+#footer #copyright {
+	width: 300px;
+	font-size: 10px;
+	color: #FFFFFF;
+	padding: 20px;
+	float: left;
+}
+#footer #menufooter {
+	list-style-type: none;
+	padding: 0px;
+	left: 352px;
+	top: 4px;
+	height: 44px;
+	width: 427px;
+	float: left;
+}
+	#menufooter ul li{
+	float:left; 
+	
+	}
+	
+		#menufooter li a{
+		display:block;
+		margin:5px;
+		
+		}
+
+		#menufooter li a:hover {
+					
+}
+#footer #diseño {
+	color: #FFFFFF;
+	width: 200px;
+	float: left;
+	text-align: right;
+	padding: 20px;
+	font-size: 8pt;
+}
